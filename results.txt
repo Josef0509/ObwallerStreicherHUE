@@ -1,0 +1,5 @@
+Computer Name: JoOb
+Date of Test: 2023-11-22 08:47:33
+Bubble Sort Time: 8.037093 seconds
+Quick Sort Time: 0.020711 seconds
+
