@@ -1,0 +1,5 @@
+Computer Name: DESKTOP_SST
+Date of Test: 2023-11-22 08:47:39
+Bubble Sort Time: 9.946530 seconds
+Quick Sort Time: 0.028302 seconds
+
